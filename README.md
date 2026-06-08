@@ -1,1 +1,1 @@
-# circket_intelligence
+# cricket_intelligence
